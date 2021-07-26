@@ -1,4 +1,3 @@
-# HW 3 Python
 # Python Advance
 
 # requests for data extract from API
